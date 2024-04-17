@@ -1,0 +1,33 @@
+div {
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 400px;
+    background-color: #7cb601;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+div > div{
+    background-color: rgb(55, 33, 224);
+}
+
+h2 {
+    color: #1d2106;
+    line-height: 1.5;
+}
+
+p {
+    color: #666;
+    line-height: 1.5;
+}
+
+
+h3 {
+    position: relative;
+    color: #ffffff;
+    margin-top: 20px;
+    margin: 0;
+}
+
+
+
